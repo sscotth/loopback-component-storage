@@ -1,3 +1,8 @@
+2018-12-10, Version 1.9.3
+=========================
+
+ * Limit error handling due to `Cannot set headers after they are sent to the client`
+
 2016-10-07, Version 1.9.2
 =========================
 
