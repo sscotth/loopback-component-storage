@@ -1,4 +1,4 @@
-2018-12-10, Version 1.9.4
+2018-12-10, Version 1.9.5
 =========================
 
  * Possible fix for `cb is not a function`
